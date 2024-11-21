@@ -1,0 +1,3 @@
+choose student
+Nir Froimovich,dexter, [AI/Data Mining/Compilation/Cloud/Web], https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Alex Segal, Alex.Segal@e.braude.ac.il, [AI/cyber security/Compilation/Cloud/Computer Network], https://www.youtube.com/watch?v=dQw4w9WgXcQ
